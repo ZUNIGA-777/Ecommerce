@@ -8,7 +8,7 @@
 
 body {
     margin: 0 70px;
-    overscroll-behavior-y: contain; /* Evitar desplazamiento del navegador */
+    position: relative;
 }
   
   /*header*/
